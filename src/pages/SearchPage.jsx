@@ -116,7 +116,7 @@ const SearchPage = () => {
               value={minPriceParam}
               onChange={(e) => updateParam('minPrice', e.target.value)}
             />
-            <span className="search-page__price-separator">—</span>
+            <span className="search-page__price-separator">-</span>
             <input
               type="number"
               className="search-page__price-input"

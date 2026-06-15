@@ -1,4 +1,4 @@
-# Mono Craft — Minimalist E-Commerce SPA
+# Mono Craft, Minimalist E-Commerce SPA
 
 A React single-page application for a minimalist Japanese homeware store. Built with zero UI frameworks, plain CSS, and intentional design decisions.
 
@@ -47,11 +47,11 @@ src/
 ## Tech Stack
 
 - **React** (Vite)
-- **react-router-dom** v6 — SPA routing
-- **prop-types** — runtime prop validation
-- Plain CSS with Custom Properties — design tokens
+- **react-router-dom** v6 , SPA routing
+- **prop-types** , runtime prop validation
+- Plain CSS with Custom Properties , design tokens
 - Native `fetch` patterns (simulated via mock API)
-- React Context + `useReducer` — cart state management
+- React Context + `useReducer` , cart state management
 
 ## License
 

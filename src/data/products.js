@@ -136,7 +136,7 @@ export const products = [
   },
   {
     id: 'sta-004',
-    name: 'Washi Tape Collection — Botanical',
+    name: 'Washi Tape Collection, Botanical',
     category: 'Stationery',
     price: 45000,
     description: 'Five rolls of masking tape printed with pressed-flower illustrations on translucent washi. Each roll is 15mm wide and 7 meters long.',
@@ -158,7 +158,7 @@ export const products = [
   // ── Lighting ──────────────────────────────────────────
   {
     id: 'lit-001',
-    name: 'Washi Pendant Lamp — Maru',
+    name: 'Washi Pendant Lamp , Maru',
     category: 'Lighting',
     price: 1450000,
     description: 'Spherical pendant lamp sheathed in hand-layered Mino washi paper. Emits a soft, warm glow that highlights the natural fiber texture.',
@@ -178,7 +178,7 @@ export const products = [
   },
   {
     id: 'lit-003',
-    name: 'Gifu Paper Lantern — Oblong',
+    name: 'Gifu Paper Lantern , Oblong',
     category: 'Lighting',
     price: 685000,
     description: 'Collapsible oblong lantern made with Gifu hosho paper stretched over a spiral bamboo frame. Designed for both table and hanging display.',
@@ -198,7 +198,7 @@ export const products = [
   },
   {
     id: 'lit-005',
-    name: 'Akari Floor Lamp — 23N',
+    name: 'Akari Floor Lamp , 23N',
     category: 'Lighting',
     price: 2850000,
     description: 'Sculptural floor lamp inspired by Noguchi\'s Akari series, wrapped in double-layered shoji paper over a wire-steel armature. Stands 140cm tall.',

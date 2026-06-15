@@ -237,7 +237,7 @@ const CheckoutPage = () => {
           <section className="checkout-page__section">
             <h2 className="checkout-page__section-title">Payment</h2>
             <p className="checkout-page__demo-note">
-              Demo Mode — Please do not enter real payment credentials.
+              Demo Mode, Please do not enter real payment credentials.
             </p>
 
             <div className="checkout-page__field">
